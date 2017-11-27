@@ -512,12 +512,12 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- GZOSP CAF manifest -->
-  <include name="gzosp_default.xml" />
+  <!-- GZOSP -->
+  <include name="snippets/gzosp.xml" />
+  <include name="snippets/caf.xml" />
 
-  <!-- GZOSP CAF manifest -->
-  <include name="caf_default.xml" />
+  <!-- Poly -->
+  <include name="snippets/poly.xml" />
 
-  <include name="poly.xml" />
 </manifest>
 
