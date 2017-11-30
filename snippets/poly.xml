@@ -22,7 +22,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project> 
 
-  <project path="packages/apps/PolySettings" name="platform_packages_apps_PolySettings" groups="pdk-fs" remote="poly" />
+  <!--project path="packages/apps/PolySettings" name="platform_packages_apps_PolySettings" groups="pdk-fs" remote="poly" /-->
   <project path="vendor/poly" name="platform_vendor_poly" remote="poly" />
   <project path="bionic" name="platform_bionic" groups="pdk" remote="poly" />
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" groups="pdk-fs" remote="poly" />
